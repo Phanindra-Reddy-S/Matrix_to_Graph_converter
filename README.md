@@ -37,7 +37,7 @@ class Graph {
     }
 }
 
-public class MatrixToGraphConverter {
+    public class MatrixToGraphConverter {
     public static Graph matrixToGraph(int[][] matrix) {
         int rows = matrix.length;
         int cols = matrix[0].length;
